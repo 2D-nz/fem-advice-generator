@@ -46,6 +46,11 @@ body{
     border: none;
     transform: translateY(30px);
 }
+.button_sort:hover{
+    box-shadow: 2px 2px 12px 10px rgba(51, 249, 91, 0.4);
+    background-color: hsl(150, 89%, 71%);;
+}
+
 .button_sort img{
     transform: translateY(2.5px);
 }
